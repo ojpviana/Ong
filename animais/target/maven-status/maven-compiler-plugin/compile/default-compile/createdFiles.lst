@@ -1,0 +1,5 @@
+com\protecao\animais\config\SecurityConfig.class
+com\protecao\animais\model\Usuario.class
+com\protecao\animais\repository\UsuarioRepository.class
+com\protecao\animais\service\jwt\JwtAuthFilter.class
+com\protecao\animais\ProtecaoAnimalApiApplication.class

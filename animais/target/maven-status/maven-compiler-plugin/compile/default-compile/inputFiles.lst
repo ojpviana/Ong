@@ -1,0 +1,15 @@
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\config\SecurityConfig.java
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\controller\AnimalController.java
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\controller\auth\AuthController.java
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\controller\OngController.java
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\dto\auth\LoginRequest.java
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\dto\auth\TokenResponse.java
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\model\Animal.java
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\model\Ong.java
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\model\Usuario.java
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\ProtecaoAnimalApiApplication.java
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\repository\AnimalRepository.java
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\repository\OngRepository.java
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\repository\UsuarioRepository.java
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\service\jwt\JwtAuthFilter.java
+C:\Users\joaop\OneDrive\Área de Trabalho\animais\src\main\java\com\protecao\animais\service\jwt\JwtService.java
